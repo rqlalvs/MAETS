@@ -1,0 +1,89 @@
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.exe.config
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.exe
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.pdb
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csprojAssemblyReference.cache
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Form1.resources
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Properties.Resources.resources
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csproj.GenerateResource.cache
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.exe
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.pdb
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Carrinho.resources
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.JOGO.resources
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Configuracoes.resources
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Confirmapg.resources
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Criarlogin.resources
+C:\Users\3aetim\source\repos\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Menu.resources
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.exe.config
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.exe
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.pdb
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csprojAssemblyReference.cache
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Cadastro.resources
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Carrinho.resources
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Configuracoes.resources
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Confirmapg.resources
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Criarlogin.resources
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Form1.resources
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.JOGO.resources
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Menu.resources
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Properties.Resources.resources
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csproj.GenerateResource.cache
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.exe
+C:\Users\3aetim\Desktop\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.pdb
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.exe.config
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.exe
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.pdb
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csprojResolveAssemblyReference.cache
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Cadastro.resources
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Carrinho.resources
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Configuracoes.resources
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Confirmapg.resources
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Criarlogin.resources
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Form1.resources
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.JOGO.resources
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Menu.resources
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Properties.Resources.resources
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csproj.GenerateResource.Cache
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.exe
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.pdb
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.biblio.resources
+C:\Users\tofol\Desktop\cu\cu\cu\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.criarlogin2.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.exe.config
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.exe
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.pdb
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csprojAssemblyReference.cache
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.biblio.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Cadastro.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Carrinho.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Configuracoes.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Confirmapg.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Criarlogin.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.criarlogin2.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Form1.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.JOGO.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Menu.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Properties.Resources.resources
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csproj.GenerateResource.cache
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.exe
+C:\Users\3aetim\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.pdb
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.exe.config
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.exe
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\bin\Debug\PLATAFORMA JOGOS.pdb
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csproj.AssemblyReference.cache
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.biblio.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Cadastro.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Carrinho.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Configuracoes.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Confirmapg.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Criarlogin.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.criarlogin2.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Form1.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.JOGO.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Menu.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA_JOGOS.Properties.Resources.resources
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csproj.GenerateResource.cache
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.csproj.CoreCompileInputs.cache
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.exe
+C:\Users\raquel.silva\Desktop\PLATAFORMA JOGOS\PLATAFORMA JOGOS\obj\Debug\PLATAFORMA JOGOS.pdb
