@@ -10,7 +10,7 @@ NotaAval decimal (2,2)
 );
 go
 
--- CREATE PROC DA AVALIA«√O
+-- CREATE PROC DA AVALIA√á√ÉO
 
 DECLARE @idavali Numeric(5)
 DECLARE @descavali Varchar(100)
@@ -134,6 +134,5 @@ IdVenda numeric foreign key references tbVenda(IdVenda),
  );
 GO
 
-USE master
-DROP DATABASE dbJogosInterativos
+
 
